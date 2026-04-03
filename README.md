@@ -1,5 +1,5 @@
 # Project1
 this is my first git repository
 <br>
-author-<b>Gayatri Kulkarni</b>
+author-<b>Gayatri K</b>
 
